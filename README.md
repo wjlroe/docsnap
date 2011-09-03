@@ -7,3 +7,9 @@ Requirements
 ============
 
 Nothing. I think. Well, GHC, haskelly stuff.
+
+Notes
+=====
+
+some notes.
+
