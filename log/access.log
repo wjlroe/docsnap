@@ -1,8 +1,0 @@
-127.0.0.1 - - [28/May/2011:00:28:36 +0100] "GET / HTTP/1.1" 200 - "http://snapframework.com/docs/quickstart" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:5.0a2) Gecko/20110524 Firefox/5.0a2"
-127.0.0.1 - - [28/May/2011:00:28:36 +0100] "GET /screen.css HTTP/1.1" 200 - "http://localhost:8000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:5.0a2) Gecko/20110524 Firefox/5.0a2"
-127.0.0.1 - - [28/May/2011:00:28:40 +0100] "GET /echo/cats HTTP/1.1" 200 - "http://localhost:8000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:5.0a2) Gecko/20110524 Firefox/5.0a2"
-127.0.0.1 - - [28/May/2011:00:28:45 +0100] "GET / HTTP/1.1" 200 - "http://localhost:8000/echo/cats" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:5.0a2) Gecko/20110524 Firefox/5.0a2"
-127.0.0.1 - - [28/May/2011:00:28:45 +0100] "GET /echo/dogs HTTP/1.1" 200 - "http://localhost:8000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:5.0a2) Gecko/20110524 Firefox/5.0a2"
-127.0.0.1 - - [28/May/2011:00:28:47 +0100] "GET / HTTP/1.1" 200 - "http://localhost:8000/echo/dogs" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:5.0a2) Gecko/20110524 Firefox/5.0a2"
-127.0.0.1 - - [28/May/2011:00:28:49 +0100] "GET /echo/fish HTTP/1.1" 200 - "http://localhost:8000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:5.0a2) Gecko/20110524 Firefox/5.0a2"
-127.0.0.1 - - [28/May/2011:00:28:49 +0100] "GET / HTTP/1.1" 200 - "http://localhost:8000/echo/fish" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:5.0a2) Gecko/20110524 Firefox/5.0a2"
