@@ -1,5 +1,5 @@
 *.o
 #*
 *~
-/dist/
-
+dist
+cabal-dev
