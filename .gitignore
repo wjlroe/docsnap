@@ -1,3 +1,6 @@
+.static-cache
+static/tmp
+*.sqlite3
 *.o
 #*
 *~
