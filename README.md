@@ -8,10 +8,14 @@ http://yannesposito.com/Scratch/en/blog/Yesod-tutorial-for-newbies/
 Requirements
 ============
 
+Make sure your `.cabal/bin` directory is in your `PATH` environment variable.
+
 ```bash
 cabal update
 cabal install cabal-dev
-cabal-dev install snap -fhint
+cabal-dev install yesod
+cabal-dev install
+yesod --dev devel
 ```
 
 Notes
